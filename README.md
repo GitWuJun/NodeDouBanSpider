@@ -12,7 +12,7 @@ demo主要分为app.js和app2.js,两个文件都可以爬取豆瓣电影top250�
 
 
 ## 三、快速开始
->git clone git@ASA
+>git clone git@github.com:GitWuJun/NodeDouBanSpider.git
 
 >cd ./NodeDouBanSpider
 
